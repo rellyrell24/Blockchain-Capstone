@@ -2,11 +2,17 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
+# Environment
+
+Truffle v5.4.7 (core: 5.4.7)
+Node v12.22.5
+
 # Testing
 
 > cd eth-contracts
 > npm install
-> truffle test
+> truffle development
+> test
 
 # Addresses
 

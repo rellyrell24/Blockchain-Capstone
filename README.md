@@ -4,20 +4,20 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 # Environment
 
-Truffle v5.4.7 (core: 5.4.7)
-Node v12.22.5
+* Truffle v5.4.7 (core: 5.4.7)
+* Node v12.22.5
 
 # Testing
 
-> cd eth-contracts
-> npm install
-> truffle development
-> test
+`cd eth-contracts`
+`npm install`
+`truffle development`
+`test`
 
 # Addresses
 
-Verifier: 0x5AA60b4f509814F67D9Cd879d2841436ACC8Ccc2
-SolnSquareVerifier: 0x7aba903A9DC3eC74194eD2A83FD69A9456B28cF9
+* Verifier: 0x5AA60b4f509814F67D9Cd879d2841436ACC8Ccc2
+* SolnSquareVerifier: 0x7aba903A9DC3eC74194eD2A83FD69A9456B28cF9
 
 # ABI
 

@@ -23,6 +23,10 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 [Contract ABI](https://github.com/rellyrell24/Blockchain-Capstone/blob/master/contract-abi.json)
 
+# OpenSea Storefront
+
+[POVToken](https://rinkeby.opensea.io/assets/povtoken)
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
